@@ -9,8 +9,10 @@ Train an agent to land a lunar module between flags on rugged terrain by learnin
 - **REINFORCE**: A Monte Carlo policy-gradient method.
 - **Advantage Actor-Critic (A2C)**: Combines policy and value learning to improve stability and sample efficiency.
 
-# 📂 Project Structure
+<details>
+<summary>📂 <strong>Project Structure</strong></summary>
 
+```
 LunarLander/
 ├── A2C_Latest.mp4                # Latest A2C model demo
 ├── A2C_best.mp4                  # Best-performing A2C agent demo
@@ -27,7 +29,11 @@ LunarLander/
 │   └── evaluations.npz           # Evaluation metrics
 ├── policy.pth                    # Trained policy (PyTorch format)
 ├── ppo_logs/                     # PPO training logs (if applicable)
-└── LunarLander_Slides.pdf        # Final presentation slides
+└── LunarLander_Slides.pdf    # Final presentation slides
+```
+
+</details>
+
 
 
 
