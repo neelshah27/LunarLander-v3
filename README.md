@@ -29,7 +29,7 @@ LunarLander/
 │   └── evaluations.npz           # Evaluation metrics
 ├── policy.pth                    # Trained policy (PyTorch format)
 ├── ppo_logs/                     # PPO training logs (if applicable)
-└── LunarLander_Slides.pdf    # Final presentation slides
+└── LunarLander_Slides.pdf        # Final presentation slides
 ```
 
 </details>
