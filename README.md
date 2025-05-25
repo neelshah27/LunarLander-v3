@@ -2,6 +2,12 @@
 
 This project explores the use of Reinforcement Learning algorithms to solve the classic control problem in the OpenAI Gym environment: **LunarLander-v3**. Our goal was to train an agent capable of landing a lunar module safely using various RL strategies and compare their performance visually.
 
+## 🎬 Training Progress Comparison
+
+| 🟥 Untrained Agent | 🧠 REINFORCE Agent | 🚀 A2C Best Agent |
+|:------------------:|:------------------:|:----------------:|
+| ![](./assets/Un-Trained.gif) | ![](./assets/REINFORCE.gif) | ![](./assets/A2C_best.gif) |
+
 ## 🎯 Problem Statement
 
 Train an agent to land a lunar module between flags on rugged terrain by learning from interaction through rewards and penalties — using:
